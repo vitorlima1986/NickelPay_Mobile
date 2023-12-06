@@ -1,0 +1,3 @@
+[submodule "NickelPay_Mobile"]
+	path = NickelPay_Mobile
+	url = https://gitlab.com/nickelpay/NickelPay_Mobile
